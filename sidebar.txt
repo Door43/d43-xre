@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xre:home|Door43 (xre)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xre|d43-xre repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xre/archive/master.zip|d43-xre.zip]]
+
+**Recent Changes**
+{{changes>ns = xre}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xre|Ethnologue data]]
+
